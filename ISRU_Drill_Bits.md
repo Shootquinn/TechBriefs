@@ -1,4 +1,4 @@
-### Drill Bits / Drill Heads / Coring Heads Fabricated form ISRU Materials on Mars, The Moon, or Other Planetary Bodies
+### Drill Bits / Drill Heads / Coring Heads Fabricated form ISRU Materials on Mars, The Moon, and Planetary Bodies
 
 The 3d printed drill head as described in the ARD3 public release documentation (readme) implied but did not directly mention the use of ISRU materials as feedstock for the fabrication process.
 
