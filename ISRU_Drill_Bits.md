@@ -4,7 +4,7 @@ The 3d printed drill head as described in the ARD3 public release documentation 
 
 It is noted that some amount of clean feedstock (be it stainless steel, ceramic, or a binder [polymer, cement, glue, or other]) could be used in proportion to Martian/Lunar/Other regolith in order to fabricate drill heads out of in-situ materials via an additive manufacturing process, or a casting/molding process. The clean feedstock could be attached to spacecraft components as ballast, instead of standard ballast materials like tungsten, etc. 
 
-This has the advantage of leveraging the abrasive, hard, and rough properties of regolith to the drill oeprators advantage. 
+This has the advantage of leveraging the abrasive, hard, and rough properties of regolith to the drill operators advantage. 
 
 https://github.com/Shootquinn/ARD3/blob/master/Screenshot_20190416-191303.png
 
