@@ -1,0 +1,5 @@
+## Permeable Aircraft Leading Edge for In-Situ Resource Utilization
+
+Fixed-wing or other aircraft could be outfitted with a permeable leading edge in order to sample the atmosphere and any condensate to analyze it for scientific purposes. Samples brought into the aircraft through the leading edge can be transported via capillary pathways or other physical means, and collected for analaysis or caching. Means could be provided to encourage formation of condensate when traveling through an area of interest, such as chilling a wing to cause condensation or heating a wing to melt deposited icy materials. Access ports could be added to the wing for sampling in larger quantities or for bringing pieces of ice inboard in-tact, maintaining their phase. 
+
+When the atmosphere or condensates consist of a material with useful engineering properties, they can be routed to onboard systems for conversion to propellant, use in fuel cells, biologically-productive reactions, etc. 
