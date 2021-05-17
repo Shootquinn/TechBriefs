@@ -6,4 +6,4 @@ This has the potential to allow a permanent ice cork to remain in place at the b
 
 Depending on the body being penetrated, and the pressure/temperature of the ice, different thicknesses of the cork will have to be maintained. It is preferable to carefully calculate this cork thickness, rather than drilling all the way through the ice sheet and having a surge of water create a thicker cork, potentially trapping hardware in the frozen hole. 
 
-The straw may be heasted or cooled to facilitate pentrating or freezing of the small access hole through the cork. 
+The straw may be heated or cooled to facilitate pentrating or freezing of the small access hole through the cork. 
